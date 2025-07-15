@@ -1,0 +1,9 @@
+cursor-style = block
+adjust-cell-height = 15%
+
+background-opacity = 0.98
+
+mouse-hide-while-typing = true
+window-save-state = always
+
+theme = dark:Desert,light:Gitlab-Light
